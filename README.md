@@ -1,2 +1,2 @@
 # db-stat
-database code base
+database ddl
